@@ -31,8 +31,8 @@ do curso:
   --cor5:#063d1e;
 
   --fonte-padrao:Arial, verde,Helvetica, sans-serif;
-  --fonte-destaque:'Bebas Neue', 'Roboto', helvica;
-  --fonte-android:'Droid', cursive;
+  --fonte-destaque:'Bebas Neue', 'Roboto', :Arial;
+  --fonte-android:'Droid', Helvetica;
 
 }
 *{
